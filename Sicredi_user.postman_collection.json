@@ -1,0 +1,1041 @@
+{
+	"info": {
+		"_postman_id": "91148a81-06db-44b2-94b9-b8e8e9328689",
+		"name": "Sicredi_user",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18165425"
+	},
+	"item": [
+		{
+			"name": "Get",
+			"item": [
+				{
+					"name": "localhost:8080/api/v1/restricoes/97093236014",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8080//api/v1/restricoes/97093236014",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"",
+								"api",
+								"v1",
+								"restricoes",
+								"97093236014"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "New Request",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "localhost:8080/api/v1/restricoes/97093236014",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"api",
+										"v1",
+										"restricoes",
+										"97093236014"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				},
+				{
+					"name": " localhost:8080//api/v1/restricoes/60094146012",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080//api/v1/restricoes/60094146012",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"",
+								"api",
+								"v1",
+								"restricoes",
+								"60094146012"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": " localhost:8080//api/v1/restricoes/60094146012",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "localhost:8080//api/v1/restricoes/60094146012",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"",
+										"api",
+										"v1",
+										"restricoes",
+										"60094146012"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				},
+				{
+					"name": "localhost:8080/api/v1/restricoes/84809766080",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/v1/restricoes/84809766080",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"restricoes",
+								"84809766080"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "localhost:8080/api/v1/restricoes/84809766080",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "localhost:8080/api/v1/restricoes/84809766080",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"api",
+										"v1",
+										"restricoes",
+										"84809766080"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				},
+				{
+					"name": "localhost:8080/api/v1/restricoes/62648716050",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/v1/restricoes/26276298085",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"restricoes",
+								"26276298085"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "localhost:8080/api/v1/restricoes/62648716050",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "localhost:8080/api/v1/restricoes/62648716050",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"api",
+										"v1",
+										"restricoes",
+										"62648716050"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				},
+				{
+					"name": "localhost:8080/api/v1/restricoes/26276298085",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/v1/restricoes/26276298085",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"restricoes",
+								"26276298085"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "localhost:8080/api/v1/restricoes/26276298085",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "localhost:8080/api/v1/restricoes/26276298085",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"api",
+										"v1",
+										"restricoes",
+										"26276298085"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				},
+				{
+					"name": "localhost:8080/api/v1/restricoes/01317496094",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/v1/restricoes/01317496094",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"restricoes",
+								"01317496094"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "localhost:8080/api/v1/restricoes/01317496094",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "localhost:8080/api/v1/restricoes/01317496094",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"api",
+										"v1",
+										"restricoes",
+										"01317496094"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				},
+				{
+					"name": "localhost:8080/api/v1/restricoes/55856777050",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/v1/restricoes/55856777050",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"restricoes",
+								"55856777050"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "localhost:8080/api/v1/restricoes/55856777050",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "localhost:8080/api/v1/restricoes/55856777050",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"api",
+										"v1",
+										"restricoes",
+										"55856777050"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				},
+				{
+					"name": "localhost:8080/api/v1/restricoes/19626829001",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/v1/restricoes/19626829001",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"restricoes",
+								"19626829001"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "localhost:8080/api/v1/restricoes/19626829001",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "localhost:8080/api/v1/restricoes/19626829001",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"api",
+										"v1",
+										"restricoes",
+										"19626829001"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				},
+				{
+					"name": "localhost:8080/api/v1/restricoes/24094592008",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/v1/restricoes/24094592008",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"restricoes",
+								"24094592008"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "localhost:8080/api/v1/restricoes/24094592008",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "localhost:8080/api/v1/restricoes/24094592008",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"api",
+										"v1",
+										"restricoes",
+										"24094592008"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				},
+				{
+					"name": "localhost:8080/api/v1/restricoes/58063164083",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/v1/restricoes/58063164083",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"restricoes",
+								"58063164083"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "localhost:8080/api/v1/restricoes/58063164083",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "localhost:8080/api/v1/restricoes/58063164083",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"api",
+										"v1",
+										"restricoes",
+										"58063164083"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Post",
+			"item": [
+				{
+					"name": "localhost:8080/api/v1/simulacoes",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": "charset=UTF-8",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nome\": \"joao\",\r\n  \"cpf\": 79181263007,\r\n  \"email\": \"joao123@email.com\",\r\n  \"valor\": 3200,\r\n  \"parcelas\": 4,\r\n  \"seguro\": true\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8080/api/v1/simulacoes",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"simulacoes"
+							],
+							"query": [
+								{
+									"key": "",
+									"value": null,
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "localhost:8080/api/v1/simulacoes",
+							"originalRequest": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"value": "application/json",
+										"description": "charset=UTF-8",
+										"type": "text"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n  \"nome\": \"joao\",\r\n  \"cpf\": 79181263007,\r\n  \"email\": \"joao123@email.com\",\r\n  \"valor\": 3200,\r\n  \"parcelas\": 4,\r\n  \"seguro\": true\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "localhost:8080/api/v1/simulacoes",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"api",
+										"v1",
+										"simulacoes"
+									],
+									"query": [
+										{
+											"key": "",
+											"value": null,
+											"disabled": true
+										}
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				},
+				{
+					"name": "localhost:8080/api/v1/simulacoes",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nome\": \"Finrura\",\r\n  \"cpf\": 91337000019,\r\n  \"email\": \"Finrura123@email.com\",\r\n  \"valor\": 1500,\r\n  \"parcelas\": 4,\r\n  \"seguro\": true\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8080/api/v1/simulacoes",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"simulacoes"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "localhost:8080/api/v1/simulacoes",
+							"originalRequest": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n  \"nome\": \"Finrura\",\r\n  \"cpf\": 91337000019,\r\n  \"email\": \"Finrura123@email.com\",\r\n  \"valor\": 1500,\r\n  \"parcelas\": 4,\r\n  \"seguro\": true\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "localhost:8080/api/v1/simulacoes",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"api",
+										"v1",
+										"simulacoes"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				},
+				{
+					"name": "localhost:8080/api/v1/simulacoes",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text",
+								"disabled": true
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nome\": \"Fulano de Tal\",\r\n  \"cpf\": 11111;\r\n  \"email\": \"email@email.com\",\r\n  \"valor\": 1200,\r\n  \"parcelas\": 3,\r\n  \"seguro\": true\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8080/api/v1/simulacoes",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"simulacoes"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "localhost:8080/api/v1/simulacoes",
+							"originalRequest": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"value": "application/json",
+										"type": "text",
+										"disabled": true
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n  \"nome\": \"Fulano de Tal\",\r\n  \"cpf\": 11111;\r\n  \"email\": \"email@email.com\",\r\n  \"valor\": 1200,\r\n  \"parcelas\": 3,\r\n  \"seguro\": true\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "localhost:8080/api/v1/simulacoes",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"api",
+										"v1",
+										"simulacoes"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Put",
+			"item": [
+				{
+					"name": "localhost:8080/api/v1/simulacoes/79181263007",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nome\": \"joao\",\r\n  \"cpf\": 79181263007,\r\n  \"email\": \"joao123@email.com\",\r\n  \"valor\": 3200,\r\n  \"parcelas\": 4,\r\n  \"seguro\": true\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8080/api/v1/simulacoes/79181263007",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"simulacoes",
+								"79181263007"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "New Request",
+							"originalRequest": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "Content-Type",
+										"value": "application/json",
+										"type": "text"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n  \"nome\": \"joao\",\r\n  \"cpf\": 79181263007,\r\n  \"email\": \"joao123@email.com\",\r\n  \"valor\": 3200,\r\n  \"parcelas\": 4,\r\n  \"seguro\": true\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "localhost:8080/api/v1/simulacoes/79181263007",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"api",
+										"v1",
+										"simulacoes",
+										"79181263007"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				},
+				{
+					"name": "localhost:8080/api/v1/simulacoes/22428219030",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nome\": \"joao\",\r\n  \"cpf\": 79181263007,\r\n  \"email\": \"joao123@email.com\",\r\n  \"valor\": 3200,\r\n  \"parcelas\": 4,\r\n  \"seguro\": true\r\n}"
+						},
+						"url": {
+							"raw": "localhost:8080/api/v1/simulacoes/22428219030",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"simulacoes",
+								"22428219030"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "localhost:8080/api/v1/simulacoes/22428219030",
+							"originalRequest": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "Content-Type",
+										"value": "application/json",
+										"type": "text"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n  \"nome\": \"joao\",\r\n  \"cpf\": 79181263007,\r\n  \"email\": \"joao123@email.com\",\r\n  \"valor\": 3200,\r\n  \"parcelas\": 4,\r\n  \"seguro\": true\r\n}"
+								},
+								"url": {
+									"raw": "localhost:8080/api/v1/simulacoes/22428219030",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"api",
+										"v1",
+										"simulacoes",
+										"22428219030"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Get",
+			"item": [
+				{
+					"name": "Retorna todas as simulações existentes",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"nome\": \"Fulano de Tal\",\r\n    \"cpf\": 97093236014,\r\n    \"email\": \"email@email.com\",\r\n    \"valor\": 1200,\r\n    \"parcelas\": 3,\r\n    \"seguro\": true\r\n  }\r\n]",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8080//api/v1/simulacoes",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"",
+								"api",
+								"v1",
+								"simulacoes"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "New Request",
+							"originalRequest": {
+								"method": "GET",
+								"header": [
+									{
+										"key": "Content-Type",
+										"value": "",
+										"type": "text"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "[\r\n  {\r\n    \"nome\": \"Fulano de Tal\",\r\n    \"cpf\": 97093236014,\r\n    \"email\": \"email@email.com\",\r\n    \"valor\": 1200,\r\n    \"parcelas\": 3,\r\n    \"seguro\": true\r\n  }\r\n]",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "localhost:8080//api/v1/simulacoes",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"",
+										"api",
+										"v1",
+										"simulacoes"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Get",
+			"item": [
+				{
+					"name": "Retorna a simulação previamente cadastrada pelo CPF",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/<host>/api/v1/simulacoes/",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"<host>",
+								"api",
+								"v1",
+								"simulacoes",
+								""
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Delete",
+			"item": [
+				{
+					"name": "Simulação removida com sucesso",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/v1/simulacoes/79181263007",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"simulacoes",
+								"79181263007"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "New Request",
+							"originalRequest": {
+								"method": "DELETE",
+								"header": [],
+								"url": {
+									"raw": "localhost:8080/api/v1/simulacoes/79181263007",
+									"host": [
+										"localhost"
+									],
+									"port": "8080",
+									"path": [
+										"api",
+										"v1",
+										"simulacoes",
+										"79181263007"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"body": null
+						}
+					]
+				}
+			]
+		}
+	]
+}
